@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-- 🔧 Software Engineer working with **Ansible** ecosystem & automation tools
+- Software Engineer working with **Ansible** ecosystem & automation tools
 - Love building things with **Python**, from dev tools to ML models
 - Interested in **AI/ML** — built projects like AI Issue Triage & Rain Prediction
 - Open source contributor — worked on **ansible-lint**, **ansible-creator**, **vscode-ansible** & more
