@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=82AAFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanwi+Geetika;Software+Engineer+%7C+Open+Source;Python+%F0%9F%90%8D+%7C+Ansible+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=82AAFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanwi+Geetika;Python+%F0%9F%90%8D+%7C+Ansible+%7C+Automation;AI+%F0%9F%A4%96+%7C+LLMs+%7C+Development)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanwi-geetika-591486196/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tengverified@gmail.com)
@@ -51,7 +51,9 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-#### Data & ML
+#### AI & Data
+![LLM](https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Llama-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
