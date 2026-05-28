@@ -17,7 +17,7 @@
 - Interested in **AI/ML** — built projects like AI Issue Triage & Rain Prediction
 - Open source contributor — worked on **ansible-lint**, **ansible-creator**, **vscode-ansible** & more
 - Ask me about **Python, Ansible, Automation, Open Source**
-- Fun fact: I enjoy turning repetitive tasks into automated pipelines so I can watch Friends!
+- Fun fact: I enjoy turning repetitive tasks into automated pipelines — mostly so I can spend more time watching Friends. 😄
 
 ---
 
