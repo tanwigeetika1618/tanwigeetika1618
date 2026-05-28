@@ -12,7 +12,9 @@
 
 ## About Me
 
-- Software Engineer working with **Ansible** ecosystem & automation tools
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+
+- 🔧 Software Engineer working with **Ansible** ecosystem & automation tools
 - Love building things with **Python**, from dev tools to ML models
 - Interested in **AI/ML** — built projects like AI Issue Triage & Rain Prediction
 - Open source contributor — worked on **ansible-lint**, **ansible-creator**, **vscode-ansible** & more
@@ -37,11 +39,9 @@
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
 #### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
